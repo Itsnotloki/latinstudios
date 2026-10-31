@@ -365,7 +365,8 @@ body {
   .links li:nth-child(2) { animation-delay: .14s; }
   .links li:nth-child(3) { animation-delay: .20s; }
   .links li:nth-child(4) { animation-delay: .26s; }
-  .foot { animation-delay: .34s; }
+  .links li:nth-child(5) { animation-delay: .32s; }
+  .foot { animation-delay: .40s; }
 }
 
 @keyframes rise {

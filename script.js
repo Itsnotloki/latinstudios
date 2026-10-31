@@ -7,6 +7,7 @@
    ========================================================== */
 const links = {
   discord: 'https://discord.gg/wKSB3rcnxN',
+  instagram: 'https://www.instagram.com/latinstudiosofficial/',
   youtube: 'https://www.youtube.com/@LatinStudiosOfficial',
   x: 'https://x.com/LatinStudios_Of',
   web: ''
